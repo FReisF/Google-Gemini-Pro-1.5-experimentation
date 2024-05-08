@@ -1,0 +1,74 @@
+Escolha 10 textos do seu site de notícias preferido. Apresente para o Google AI Studio o padrão dos títulos e das suas respectivas notícias e quando chegar no décimo primeiro texto, apresente somente a notícia e peça para ele gerar um título. Veja se existe alguma técnica ou padrão;
+
+Prompt (Notícias do site da BBC Brasil no dia 08-05-2024)
+Dados os seguintes titulos de reportagens e os 3 primeiros parágrafos das noticias faça uma sugestão de qual seria o titulo da reportagem 11. Explique o padrão seguido nas reportagens para a criação dos titulos. 
+
+-1
+*Texto:Ainda não se sabe qual será o orçamento total necessário para reconstruir o Rio Grande do Sul e apoiar as famílias atingidas, após os estragos causados por fortes chuvas que afetaram 388 dos 497 municípios gaúchos, mas o Congresso Nacional, o governo federal e o governo gaúcho se articulam para agilizar a liberação de bilhões de reais.Apenas a reconstrução de rodovias destruídas pelas enchentes do Sul deve custar ao menos R$ 1 bilhão, segundo estimativa do ministro da Integração e do Desenvolvimento Regional, Waldez Góes.As inundações atingiram mais de 1,3 milhão de pessoas, segundo a administração estadual, com ao menos 100 mortes e 155,7 mil pessoas desalojadas de suas casas. Muitos estão sem luz ou água potável.
+*Título:'Orçamento de guerra': de onde podem vir os bilhões para reconstruir o Rio Grande do Sul
+
+-2
+*Texto:"O comportamento das chuvas mudou. Eu tenho feito um levantamento e já percebi que de 2013 pra frente nós temos um acumulado de precipitação [chuvas] no mês de mais de 300 mm. A minha pergunta é: o que nós, por exemplo, na Defesa Civil, temos programado para prever essas possibilidades? Em algum momento, vamos começar a ver [inundações] em áreas em que a água não chegava com tanta frequência e vamos lembrar disso que estamos falando aqui."O alerta acima, feito em junho de 2022 durante uma audiência pública na Câmara Municipal de Pelotas (RS) e apontado em vídeos nas redes sociais como "profecia" à luz das inundações que já deixaram pelo menos 90 mortos no Rio Grande do Sul, é do ecólogo Marcelo Dutra da Silva, doutor em ciências e professor de Ecologia na Universidade Federal do Rio Grande (FURG).Na ocasião, durante um debate sobre mudanças climáticas, o pesquisador chamava atenção para o fato de que muitas cidades gaúchas estavam totalmente despreparadas para chuvas extremas: não sabiam quais eram suas áreas de risco, quais regiões eram vulneráveis a inundações, ou quem seriam os primeiros moradores do Estado a serem atingidos pelas águas.
+*Título:'Cidades inteiras do RS terão que mudar de lugar', diz pesquisador que alertou para despreparo contra chuvas
+
+-3
+*Texto:A Prefeitura de Porto Alegre afirmou nesta terça-feira (7/5) que precisa da ajuda de "qualquer embarcação" para resgatar milhares de moradores da cidade que ainda esperam por socorro em bairros completamente alagados na capital do Rio Grande do Sul.As fortes chuvas que afetam o Estado desde a semana passada já provocaram ao menos 95 mortes e afetaram 401 dos 497 municípios gaúchos, segundo dados divulgados às 18h.Porto Alegre foi especialmente atingida por conta do transbordamento do lago Guaíba, cujo nível da água está em 5,22 metros, quatro metros acima do volume considerado normal, segundo o Centro Integrado de Coordenação de Serviços da cidade.
+*Título:'Precisamos de qualquer embarcação': o apelo da prefeitura de Porto Alegre para resgate de milhares de ilhados
+
+-4
+*Texto:Após mais de 3 bilhões de doses distribuídas, a vacina da AstraZeneca e da Universidade de Oxford contra a covid-19 está sendo retirada do mercado.A companhia farmacêutica AstraZeneca disse que estava “incrivelmente orgulhosa” da vacina, mas havia tomado uma decisão comercial.Segundo a empresa, o surgimento de novas variantes do coronavírus fez com que a demanda se voltasse para as vacinas mais recentes e atualizadas.
+*Título:Por que AstraZeneca decidiu 'aposentar' sua vacina contra covid, após 3 bilhões de doses
+
+-5
+*Texto:Charles Esler passou mais de 50 anos vivendo confinado em um hospital, apesar de não estar gravemente doente.Com dificuldade de aprendizagem leve e epilepsia, ele foi levado ao hospital pela primeira vez quando tinha dez anos.Charles disse à BBC Scotland News, serviço de notícias da BBC na Escócia, que passou anos demais em hospitais – e que não gostava de ficar trancado, sem liberdade.
+*Título:'Estive hospitalizado por 50 anos, mas não estava doente'
+
+-6
+*Texto:Os Estados Unidos suspenderam na semana passada o envio de um carregamento de bombas para Israel devido a preocupações de que o país realizaria uma grande operação terrestre na cidade de Rafah, no sul de Gaza, informou um alto funcionário do governo americano.O carregamento consistia em 1,8 mil bombas de 907 kg e 1,7 mil bombas de 227 kg, afirmou a autoridade à rede CBS News, parceira de mídia da BBC nos EUA.De acordo com esta fonte, Israel não “satisfez totalmente” as preocupações dos EUA sobre as necessidades humanitárias dos civis em Rafah.
+*Título:Por que os EUA suspenderam envio de bombas a Israel
+
+-7
+*Texto:Após meses de impasse, a busca pela paz em Gaza atingiu uma fase crítica. O secretário-geral da ONU, António Guterres, afirmou que este é um "momento decisivo para o povo palestino e israelense e para o destino de toda a região".Parece haver um consenso entre a maioria das partes sobre os princípios do acordo: o cessar-fogo deve ocorrer em paralelo à libertação dos reféns israelenses e dos prisioneiros palestinos. Várias versões do acordo foram elaboradas, estabelecendo um processo complexo de como funcionaria.Há alguma divergência sobre os detalhes do que deveria acontecer com quem, quando e em que ordem.
+*Título:Os pontos que ainda separam Israel e Hamas nas negociações por cessar-fogo em Gaza
+
+-8
+*Texto:Um conhecido hacker que era um dos criminosos mais procurados da Europa foi preso por chantagear 33 mil pessoas, ameaçando publicar online as anotações das suas sessões de terapia.A prisão de Julius Kivimäki põe fim a uma onda de crimes cibernéticos de 11 anos, que começou quando ele ganhou notoriedade em uma rede de gangues anarquistas de hackers adolescentes, quando ele tinha apenas 13 anos.A seguir, conheça o caso.
+*Título:Como hacker adolescente se transformou em um dos criminosos mais procurados da Europa
+
+-9
+*Texto:Celebridades estão se dirigindo para o tapete vermelho da maior noite da moda, o Met Gala, que ocorrerá na noite dessa segunda-feira (6/5).Artistas e magnatas dos negócios estarão entre os que estão se vestindo para impressionar no evento de arrecadação de fundos do Metropolitan Museum of Art, (conhecido informalmente como The Met), em Nova York, nos Estados Unidos.A edição de 2024 do evento extravagante é inspirada em O Jardim do Tempo, um conto do autor britânico de ficção científica JG Ballard (1930-2009).
+*Título:Met Gala 2024: qual é o tema, como assistir e quanto custa um ingresso?
+
+-10
+*Texto:O economista "libertário" Javier Milei chegou à Presidência da Argentina em dezembro ainda considerado um estranho à política. Ele havia recém ingressado na vida pública dois anos antes, como deputado nacional.Famoso por fazer campanha com uma motosserra, o autodeclarado "anarcocapitalista" prometeu cortar drasticamente os gastos da "casta política" e, desde que assumiu o cargo, realizou o que ele mesmo definiu como "o maior ajuste da história" – equivalente a 13 pontos do Produto Interno Bruto (PIB).As medidas parecem estar contendo a inflação. O aumento de preços – que ultrapassou os 25% mensais em dezembro – foi reduzido para menos da metade.
+*Título:Javier Milei à BBC: 'Os perdedores que afundaram o país agora choram pelo reconhecimento internacional que tenho'
+
+-11
+*Texto:Há obras literárias sobre as quais se pode afirmar que existe um consenso (quase) universal a respeito de sua relevância histórica. Elas oferecem uma visão profunda da complexa realidade humana, independentemente da época ou cultura em que foram escritas.Nessa categoria podemos encontrar a Bíblia Sagrada, A Divina Comédia, de Dante Alighieri, Dom Quixote de La Mancha, de Cervantes, os romances e contos de Dostoiévski, Tolstoi, Charles Dickens, Thomas Mann, Kafka e Borges, as obras de Shakespeare e Sófocles, Ilíada e Odisseia, de Homero, Eneida, de Virgílio, e por aí vai.Nesses livros, e em centenas de outras obras, são exploradas as profundezas do coração humano, que não mudou essencialmente ao longo da história.
+*Título:
+
+
+Output:
+
+Sugestão de título para a reportagem 11:
+"Obras literárias que transcendem o tempo: uma jornada pela alma humana"
+
+Padrão dos títulos nas reportagens:
+
+Os títulos das reportagens seguem um padrão que busca despertar a curiosidade do leitor e, ao mesmo tempo, transmitir a essência do conteúdo. Podemos observar alguns elementos recorrentes:
+
+Uso de perguntas: Vários títulos são formulados como perguntas, instigando o leitor a buscar respostas no texto (exemplos: 1, 4, 6, 9).
+
+Citações impactantes: Títulos que utilizam frases ditas por personagens da notícia, gerando impacto e interesse (exemplos: 2, 3, 5, 10).
+
+Destaque para o problema ou tema central: Títulos que resumem o problema principal abordado na notícia (exemplo: 7).
+
+Narrativa intrigante: Títulos que contam uma história em poucas palavras, despertando a curiosidade (exemplo: 8).
+
+Explicação da sugestão para o título 11:
+A sugestão para o título 11 segue o padrão de destacar o tema central da reportagem. A reportagem fala sobre obras literárias clássicas que, devido à sua profundidade e universalidade, transcendem o tempo e as culturas. O título proposto busca refletir essa ideia, mencionando a atemporalidade das obras e a exploração da alma humana como temas centrais.
+
+
+
+OBSERVAÇÃO:
+O titulo da matéria 11 na verdade era: Os filósofos e escritores que acreditavam que a literatura podia 'curar a alma'
