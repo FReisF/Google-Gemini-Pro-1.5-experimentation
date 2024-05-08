@@ -1,0 +1,87 @@
+Use a técnica de Few-shot Chain-of-Thought para um problema da sua vida real;
+
+Prompt:
+
+Você fará o papel de meu assitente pessoal para organizar minha rotina. Eu preciso saber os horarios ideais para cada atividade para os dias de segunda a domingo baseado nas atividades que tenho de fazer.
+
+Segunda-Feira:
+  Atividades: meditação, academia, trabalho, aula de francês.
+  Planejamento: Acordar 6:30, Escovar os dentes, fazer café da manhã e comer. 7:30 meditação de 10 minutos. 7:50 ir para a academia. 9:15 tomar banho. 9:30 começar trabalho.  12:30 Almoço. 13:00 volta ao trabalho. 18:00 encerrar trabalho e jantar. 18:30 Aula de francês. 21:30 ceia. 22:30 dormir.
+
+Terça-Feira:
+  Atividades: meditação, academia, trabalho, Afazeres domésticos, estudo de programação.
+  Planejamento: Acordar 6:30, Escovar os dentes, fazer café da manhã e comer. 7:30 meditação de 10 minutos. 7:50 ir para a academia. 9:15 tomar banho. 9:30 começar trabalho.  12:30 Almoço. 13:00 volta ao trabalho. 18:30 encerrar trabalho e jantar. 19:00 Afazeres domesticos. 20:30 Estudar por 1 hora. 22:30 dormir.
+
+Quarta feira:
+  Atividades: meditação, trabalho, estudo de programação:
+  Planejamento:
+
+Quinta Feira:
+  Atividades: meditação, academia, trabalho, estudo de programação.
+  Planejamento:
+
+Sexta Feira:
+  Atividades: meditação, academia, trabalho, estudo de programação, afazeres domésticos.
+  Planejamento:
+
+
+
+Output:
+
+Organizando sua rotina semanal:
+
+Quarta-feira:
+Atividades: meditação, trabalho, estudo de programação
+Sugestão de planejamento:
+07:00: Acordar, higiene pessoal e café da manhã.
+08:00: Meditação (10 minutos).
+08:15: Iniciar trabalho.
+12:00: Almoço e descanso.
+13:00: Retorno ao trabalho.
+18:00: Encerrar trabalho e jantar.
+19:00: Estudo de programação (1-2 horas).
+21:00: Tempo livre para lazer ou atividades pessoais.
+22:30: Preparação para dormir.
+23:00: Dormir.
+
+Quinta-feira:
+Atividades: meditação, academia, trabalho, estudo de programação.
+Sugestão de planejamento:
+06:30: Acordar, higiene pessoal e café da manhã rápido.
+07:30: Meditação (10 minutos).
+07:50: Ir para a academia.
+09:15: Tomar banho.
+09:30: Iniciar trabalho.
+12:30: Almoço.
+13:00: Retorno ao trabalho.
+18:00: Encerrar trabalho e jantar.
+19:00: Estudo de programação (1-2 horas).
+21:00: Tempo livre para lazer ou atividades pessoais.
+22:30: Preparação para dormir.
+23:00: Dormir.
+
+Sexta-feira:
+Atividades: meditação, academia, trabalho, estudo de programação, afazeres domésticos.
+Sugestão de planejamento:
+06:30: Acordar, higiene pessoal e café da manhã rápido.
+07:30: Meditação (10 minutos).
+07:50: Ir para a academia.
+09:15: Tomar banho.
+09:30: Iniciar trabalho.
+12:30: Almoço.
+13:00: Retorno ao trabalho.
+18:00: Encerrar trabalho e jantar.
+19:00: Afazeres domésticos.
+20:00: Estudo de programação (1-2 horas).
+22:00: Tempo livre para lazer ou atividades pessoais.
+23:00: Preparação para dormir.
+23:30: Dormir.
+
+
+Observações:
+Os horários são sugestões e podem ser ajustados de acordo com suas preferências e necessidades.
+É importante reservar um tempo para lazer e atividades pessoais para relaxar e evitar o esgotamento.
+Procure manter uma rotina de sono regular para garantir um bom descanso.
+Se possível, inclua intervalos curtos durante o trabalho e o estudo para se alongar e descansar a mente.
+
+Lembre-se de que a organização é fundamental para uma rotina produtiva e saudável!
